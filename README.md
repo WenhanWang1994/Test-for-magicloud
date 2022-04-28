@@ -1,0 +1,2 @@
+# Test-for-magicloud
+QA
